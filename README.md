@@ -7,5 +7,6 @@ not using CSS right now
 Parent and Child elements.
 The nested element inside an element is the child element.
 Indentations are used to make the level for nesting clear and readable to us humans.
+Ctrl + / to add the comment tag.
 
 <!-- I am an html comment --> for comments
